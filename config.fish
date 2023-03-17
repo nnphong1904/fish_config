@@ -4,6 +4,16 @@ alias gps='git push'
 alias gpl='git pull'
 alias gst='git status'
 alias gl='git log'
+alias ga='git add'
+alias gc='git commit -m'
+alias gca='git commit --amend'
+alias gpsu='git push -u'
+alias gb='git branch'
+alias gbd='git branch -D'
+alias gco='git checkout'
+alias grmtv='git remote -v'
+alias grmta='git remote add'
+alias grmtr='git remote remove'
 #PATH
 set PATH /Users/nguyenphong/flutter/bin $PATH
 set PATH /opt/homebrew/opt/mongodb-community@4.4/bin $PATH
